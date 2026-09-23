@@ -87,3 +87,5 @@
 @@||engage.cloudflareclient.com^
 @@||kaspersky-labs.com^
 @@||kaspersky.com^
+@@||kaspersky-lab.com^
+@@||tmdbimg.vercel.app^
