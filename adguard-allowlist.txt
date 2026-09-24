@@ -61,8 +61,6 @@
 @@||zoho.in^
 @@||1tamilmv.fi^
 @@||lemmy.dbzer0.com^
-@@||www.1tamilblasters.yachts^
-@@||www.tamilblasters.coupons^
 @@||ipv4announce.sktorrent.eu^
 @@||firebase.studio^
 @@||1tamilblasters.net^
@@ -93,4 +91,7 @@
 @@||checkip.dyndns.org^
 @@||skynet3301.cloudflareaccess.com^
 @@||time.cloudflare.com^
+@@||www.cloudflarestatus.com^
+@@||help.one.cloudflare.com^
 @@||msty.studio.com^
+@@||api.osprey.ac^
