@@ -89,3 +89,8 @@
 @@||kaspersky.com^
 @@||kaspersky-lab.com^
 @@||tmdbimg.vercel.app^
+@@||idealism4261.github.io^
+@@||checkip.dyndns.org^
+@@||skynet3301.cloudflareaccess.com^
+@@||time.cloudflare.com^
+@@||msty.studio.com^
