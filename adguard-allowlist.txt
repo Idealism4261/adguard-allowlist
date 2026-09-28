@@ -32,6 +32,8 @@
 @@||epay.kwa.kerala.gov.in^
 @@||eztv.ro^
 @@||eztvx.to^
+@@||ext.to^
+@@||extto.com^
 @@||filing.ecourts.gov.in^
 @@||filing.keralacourts.in^
 @@||firebase.studio^
