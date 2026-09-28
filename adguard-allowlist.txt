@@ -50,7 +50,6 @@
 @@||kaspersky.com^
 @@||kaspersky.d3.sc.omtrdc.net^
 @@||ksn-verdict-geo.kaspersky-labs.com^
-@@||kaspersky.com^
 @@||kwa.kerala.gov.in^
 @@||lemmy.dbzer0.com^
 @@||librarydaap.itunes.apple.com^
@@ -59,7 +58,6 @@
 @@||mp-api.music.apple.com^
 @@||mrodevicemgr.officeapps.live.com^
 @@||msftconnecttest.com^
-@@||msty.studio.com^
 @@||music.apple.com^
 @@||musicstatus.itunes.apple.com^
 @@||mvod.itunes.apple.com^
@@ -67,12 +65,10 @@
 @@||my.nextdns.io^
 @@||nav.smartscreen.microsoft.com^
 @@||nextdns.io^
-@@||nhyira.dev^
 @@||nvda.d2.sc.omtrdc.net^
 @@||omtrdc.net^
 @@||onedriveclucproddm20011.blob.core.windows.net^
 @@||open.airtelxstream.in^
-@@||outlook.com^
 @@||outlook.live.com^
 @@||outlook.office365.com^
 @@||p11-buy.itunes.apple.com^
@@ -88,7 +84,6 @@
 @@||se2.itunes.apple.com^
 @@||setlawinmotion-my.sharepoint.com^
 @@||sf-api-token-service.itunes.apple.com^
-@@||sharepoint.com^
 @@||sharepointonline.com^
 @@||skynet3301.cloudflareaccess.com^
 @@||smartscreen-prod.microsoft.com^
