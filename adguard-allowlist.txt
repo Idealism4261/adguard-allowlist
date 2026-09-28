@@ -107,6 +107,7 @@
 @@||ulaa.com^
 @@||upp.itunes.apple.com^
 @@||video-ssl.itunes.apple.com^
+@@||www.redditstatic.com^
 @@||wynk.in^
 @@||xp.apple.com^
 @@||yd.3dyd.com^
