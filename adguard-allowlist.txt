@@ -1,6 +1,5 @@
 ! AdGuard Home allowlist converted from allowed-names.txt
 ! Generated as AdGuard exception rules; @@||domain^ covers the domain and its subdomains.
-@@||1tamilblasters.net^
 @@||1tamilmv.fi^
 @@||36-courier.push.apple.com^
 @@||account.apple.com^
