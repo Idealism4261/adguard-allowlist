@@ -15,6 +15,7 @@
 @@||audio-ssl.itunes.apple.com^
 @@||bootstrapper.stremaddon.net^
 @@||buy.itunes.apple.com^
+@@||challenges.cloudflare.com^
 @@||checkip.dyndns.org^
 @@||cma2.itunes.apple.com^
 @@||comet.feels.legal^
@@ -37,6 +38,7 @@
 @@||fpinit.itunes.apple.com^
 @@||go-updater.brave.com^
 @@||gsa.apple.com^
+@@||hagen.challenges.cloudflare.com^
 @@||help.one.cloudflare.com^
 @@||hses3-vod-cf.cdn.hotstar.com^
 @@||idealism4261.github.io^
