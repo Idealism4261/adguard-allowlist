@@ -18,6 +18,7 @@
 @@||challenges.cloudflare.com^
 @@||checkip.dyndns.org^
 @@||cma2.itunes.apple.com^
+@@||collector.github.com^
 @@||comet.feels.legal^
 @@||coursebuilder-1036970381532.asia-south1.run.app^
 @@||crl.apple.com^
