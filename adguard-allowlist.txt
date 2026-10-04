@@ -69,7 +69,6 @@
 @@||my.nextdns.io^
 @@||nav.smartscreen.microsoft.com^
 @@||nextdns.io^
-@@||nexus-websocket-a.intercom.io^
 @@||nvda.d2.sc.omtrdc.net^
 @@||omtrdc.net^
 @@||onedriveclucproddm20011.blob.core.windows.net^
