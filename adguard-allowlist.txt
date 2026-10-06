@@ -52,6 +52,7 @@
 @@||kaspersky-lab.com^
 @@||kaspersky-labs.com^
 @@||kaspersky.com^
+@@||kaspersky.de^
 @@||kaspersky.d3.sc.omtrdc.net^
 @@||ksn-verdict-geo.kaspersky-labs.com^
 @@||kwa.kerala.gov.in^
