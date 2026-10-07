@@ -112,6 +112,7 @@
 @@||time.cloudflare.com^
 @@||tmdbimg.vercel.app^
 @@||torbox.app^
+@@||torbox-library-plus.josin-paul.workers.dev^
 @@||ulaa.com^
 @@||upp.itunes.apple.com^
 @@||video-ssl.itunes.apple.com^
