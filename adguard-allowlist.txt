@@ -4,6 +4,7 @@
 @@||36-courier.push.apple.com^
 @@||account.apple.com^
 @@||adobecorp.data.adobedc.net^
+@@||amazon.com^
 @@||amazon.in^
 @@||amcdn.msftauth.net^
 @@||amp-api-edge.music.apple.com^
