@@ -25,6 +25,7 @@
 @@||crl.apple.com^
 @@||crystalmark.info^
 @@||ctldl.windowsupdate.com^
+@@||dash.cloudflare.com^
 @@||debridmediamanager.com^
 @@||digiscr.sci.gov.in^
 @@||directory.services.live.com^
@@ -40,8 +41,10 @@
 @@||filing.keralacourts.in^
 @@||firebase.studio^
 @@||fpinit.itunes.apple.com^
+@@||gates.cloudflare.com^
 @@||go-updater.brave.com^
 @@||gsa.apple.com^
+@@||geolocation.onetrust.com^
 @@||hagen.challenges.cloudflare.com^
 @@||help.one.cloudflare.com^
 @@||hses3-vod-cf.cdn.hotstar.com^
@@ -78,14 +81,17 @@
 @@||omtrdc.net^
 @@||onedriveclucproddm20011.blob.core.windows.net^
 @@||open.airtelxstream.in^
+@@||ot.www.cloudflare.com^
 @@||outlook.live.com^
 @@||outlook.office365.com^
 @@||p11-buy.itunes.apple.com^
 @@||pd.itunes.apple.com^
 @@||pgi.billdesk.com^
+@@||platform.dash.cloudflare.com^
 @@||play-edge.itunes.apple.com^
 @@||play.google.com^
 @@||play.itunes.apple.com^
+@@||privacyportal.onetrust.com^
 @@||radio-activity.itunes.apple.com^
 @@||s.mzstatic.com^
 @@||s1-ssl.mzstatic.com^
@@ -106,6 +112,7 @@
 @@||strem.io^
 @@||stremio.com^
 @@||stremio.net^
+@@||stun.cloudflare.com^
 @@||sync.itunes.apple.com^
 @@||tb-cdn.io^
 @@||tb-cdn.pw^
@@ -116,8 +123,10 @@
 @@||torbox.app^
 @@||torbox-library-plus.josin-paul.workers.dev^
 @@||ulaa.com^
+@@||universal-nav-registry-production.cfapi.workers.dev^
 @@||upp.itunes.apple.com^
 @@||video-ssl.itunes.apple.com^
+@@||www.cloudflarestatus.com^
 @@||www.redditstatic.com^
 @@||wynk.in^
 @@||xp.apple.com^
