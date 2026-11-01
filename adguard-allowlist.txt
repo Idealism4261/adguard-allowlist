@@ -43,6 +43,7 @@
 @@||fpinit.itunes.apple.com^
 @@||gates.cloudflare.com^
 @@||go-updater.brave.com^
+@@||googlevideo.com^
 @@||gsa.apple.com^
 @@||geolocation.onetrust.com^
 @@||hagen.challenges.cloudflare.com^
@@ -131,6 +132,9 @@
 @@||wynk.in^
 @@||xp.apple.com^
 @@||yd.3dyd.com^
+@@||youtube.com^
+@@||youtubei.googleapis.com^
+@@||ytimg.com^
 @@||yts.gg^
 @@||z-library.sk^
 @@||zoho.in^
