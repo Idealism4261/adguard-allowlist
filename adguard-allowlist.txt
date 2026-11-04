@@ -21,6 +21,7 @@
 @@||checkip.dyndns.org^
 @@||cma2.itunes.apple.com^
 @@||comet.feels.legal^
+@@||cncverse.dpdns.org^
 @@||coursebuilder-1036970381532.asia-south1.run.app^
 @@||crl.apple.com^
 @@||crystalmark.info^
@@ -92,8 +93,10 @@
 @@||play-edge.itunes.apple.com^
 @@||play.google.com^
 @@||play.itunes.apple.com^
+@@||plavio.site^
 @@||privacyportal.onetrust.com^
 @@||radio-activity.itunes.apple.com^
+@@||route.transcode.cfd^
 @@||s.mzstatic.com^
 @@||s1-ssl.mzstatic.com^
 @@||sb.music.apple.com^
