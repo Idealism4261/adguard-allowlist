@@ -86,6 +86,7 @@
 @@||ot.www.cloudflare.com^
 @@||outlook.live.com^
 @@||outlook.office365.com^
+@@||papacito.cfd^
 @@||p11-buy.itunes.apple.com^
 @@||pd.itunes.apple.com^
 @@||pgi.billdesk.com^
