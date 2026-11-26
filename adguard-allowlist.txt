@@ -35,6 +35,7 @@
 @@||elfhosted.com^
 @@||engage.cloudflareclient.com^
 @@||epay.kwa.kerala.gov.in^
+@@||epicgames.com^
 @@||eztv.ro^
 @@||eztvx.to^
 @@||ext.to^
