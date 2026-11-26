@@ -64,7 +64,6 @@
 @@||kaspersky.com^
 @@||kaspersky.de^
 @@||kasperskycoin.push4site.com^
-@@||kaspersky.d3.sc.omtrdc.net^
 @@||ksn-verdict-geo.kaspersky-labs.com^
 @@||kwa.kerala.gov.in^
 @@||lemmy.dbzer0.com^
@@ -82,8 +81,6 @@
 @@||nav.smartscreen.microsoft.com^
 @@||nextdns.io^
 @@||nexus-websocket-a.intercom.io^
-@@||nvda.d2.sc.omtrdc.net^
-@@||omtrdc.net^
 @@||onedriveclucproddm20011.blob.core.windows.net^
 @@||open.airtelxstream.in^
 @@||ot.www.cloudflare.com^
