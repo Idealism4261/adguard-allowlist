@@ -143,3 +143,17 @@
 @@||yts.gg^
 @@||z-library.sk^
 @@||zoho.in^
+@@||update.microsoft.com^
+@@||windowsupdate.com^
+@@||delivery.mp.microsoft.com^
+@@||download.microsoft.com^
+@@||definitionupdates.microsoft.com^
+@@||go.microsoft.com^
+@@||www.microsoft.com^
+@@||settings-win.data.microsoft.com^
+@@||settings.data.microsoft.com^
+@@||adl.windows.com^
+@@||wdcp.microsoft.com^
+@@||wdcpalt.microsoft.com^
+@@||wd.microsoft.com^
+@@||crl.microsoft.com^
