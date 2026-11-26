@@ -23,7 +23,6 @@
 @@||checkip.dyndns.org^
 @@||cma2.itunes.apple.com^
 @@||comet.feels.legal^
-@@||cncverse.dpdns.org^
 @@||coursebuilder-1036970381532.asia-south1.run.app^
 @@||crl.apple.com^
 @@||crystalmark.info^
